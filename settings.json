@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": endsmp_.aternos.me,
+    "ip": endsmp_.aternos.me
     "port": 11550 ,
     "version": "",
     "try-creative": false
